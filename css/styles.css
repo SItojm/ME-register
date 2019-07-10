@@ -209,14 +209,16 @@ header img{
   margin-left: 300px
 }
 
-.fearture-text2 img{
+.register{
   position:relative;
   padding: auto;
   height:100%;
   margin-left: 300px
 }
 
-
+.line-at{
+  margin-left: 0px
+}
 
 
 
